@@ -4,6 +4,8 @@ Larissa Araújo Gama Alvarenga - RM96496
 
 Luna Faustino Lima - RM552473
 
+William Kenzo Hayashi - RM552659
+
 ## Descrição
 
 Este projeto implementa uma API completa para o sistema de gerenciamento de brinquedos para crianças até 12 anos. A API segue o padrão REST e implementa todas as operações CRUD (Create, Read, Update, Delete) utilizando o Entity Framework Core para persistência de dados em um banco Oracle.
