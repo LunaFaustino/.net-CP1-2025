@@ -50,7 +50,7 @@ Este projeto implementa uma API completa para o sistema de gerenciamento de brin
 ![POST](./readme/POST1.png)
 ![POST](./readme/POST2.png)
 
-Exemplo de payload JSON utilizado:
+Exemplo de JSON utilizado:
 ```json
 {
   "nome_brinquedo": "Boneca Educativa",
@@ -65,7 +65,7 @@ Exemplo de payload JSON utilizado:
 
 ![PUT](./readme/PUT.png)
 
-Exemplo de payload JSON utilizado:
+Exemplo de JSON utilizado:
 ```json
 {
   "id_brinquedo": 3,
